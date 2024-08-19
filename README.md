@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/is2bwlla">
-    <img src="logo.png" height="250" width="250" alt="Unform" />
+    <img src="galinha-pintadinha.gif" height="250" width="250" alt="Unform" />
   </a>
 </p>
 
@@ -14,52 +14,50 @@
 
 ## Sobre mim
 
-Me chamo Isabella, tenho 18 anos, nasci em Hortolândia/SP, sou formada em técnico em administração e estou cursando técnico em desenvolvimento de sistemas. Sou aprendiz na Bosch, em Campinas/SP.
+Me chamo Isabella, tenho 18 anos, nasci em Hortolândia/SP e sou aprendiz na Bosch, Campinas/SP.
 
-
-- 🔭 Faço parte da equipe de professores do SENAI
-- 👨‍🎓 Sou formado em Bacharel em Ciencia da Computação pela UNICAMP, e em técnico de Informática pelo COTUCA
-- 📚 Estudo sobre assuntos diversos de Ciência de Dados
-- 👯 Estou procurando colaborar em desenvolver meus alunos e em aprimorar meus conhecimentos em Ciencia de Dados
-- 🤔 Estou procurando algum cargo como Cientista de Dados
+- 👩🏻‍🎓 Sou formada em ADM pela ETEC de Hortolândia.
+- 👩🏻‍💻 Encerro o curso de DS pelo SENAI "Roberto Mange" no primero semestre de 2025.
+- 🌎 Faço inglês pela Wizard.
+- 📚 Áreas de interesse: desenvolvimento e IA.
 - 💬 Pergunte-me sobre o que tiver duvida.
-- ⚡ Curiosidade: Sou nascido no Japão, mas não tenho nacionalidade brasileira
+- 🐋 Curiosidade: Eu com certeza sei mais sobre cetáceos do que você.
 
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> </code>
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> </code>
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-          
-          
+<div>
+<img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "PYTHON"/>
+<img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/>
+<img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/>
+<img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/>
+<img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title = "FIGMA"/>
+</div>
+
+### 🖥️ Estudando: 
+
+<div>
+  <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title = "JAVA" />
+  <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title = "MYSQL"/>
+  <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title = "DJANGO"/>
+  <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" title = "OPENCV" />
+  <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title = "REACT" />         
+</div>
           
 ## Contatos:
 
-📫 Você pode falar comigo pelo [Email](mailto:dorival.jrr@gmail.com) ou pelo [Linkedin](https://www.linkedin.com/in/dorival-alves-804558127/) 
+📫 Você pode falar comigo pelo [Linkedin](https://www.linkedin.com/in/isabella-souza-365a79293/)
 </br>
 
 
 <br/>
 
-
 <div>
-<a href="https://github.com/Dorivis">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorivis&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dorivis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2bwlla&layout=compact&theme=transparent">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=is2bwlla&show_icons=true&theme=transparent">
 </div>
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-avan%C3%A7ado-green)
-![Graduação](https://img.shields.io/badge/Gradua%C3%A7%C3%A3o_Ciencia_da_Computa%C3%A7%C3%A3o-UNICAMP-green)
-![EmpregoAtual](https://img.shields.io/badge/Professor-SENAI-green)
-
-
-
-![Snake animation](https://github.com/Dorivis/Dorivis/blob/output/github-contribution-grid-snake.svg)
+![Static Badge](https://img.shields.io/badge/python-b%C3%A1sico---?color=%23ffc0cb)
+![Static Badge](https://img.shields.io/badge/javascript-b%C3%A1sico---?color=%23ffc0cb)
