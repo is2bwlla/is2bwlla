@@ -53,8 +53,8 @@ Me chamo Isabella, tenho 18 anos, nasci em Hortolândia/SP e sou aprendiz na Bos
 <br/>
 
 <div>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2bwlla&layout=compact&theme=transparent">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=is2bwlla&show_icons=true&theme=transparent">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2bwlla&layout=compact&theme=transparent">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=is2bwlla&show_icons=true&theme=transparent">
 </div>
 
 <br/>
