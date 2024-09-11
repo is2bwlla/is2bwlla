@@ -5,6 +5,13 @@
 
 <div dsplay="inline-block">
 </div>
+
+##Isabella
+
+<p>
+  Eu sou aprendiz na Bosch/Campinas, aluna de Desenvolvimento de Sistemas pelo SENAI "Roberto Mange" e sou formada em técnico de administração pela ETEC de Hortolândia.
+</p>
+
 ### 🖥️ Tecnologias e Ferramentas: 
 
 <div>
