@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://github.com/is2bwlla">
-    <img src="galinha-pintadinha.gif" height="250" width="250" alt="Unform" />
   </a>
 </p>
 
