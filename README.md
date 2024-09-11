@@ -9,7 +9,7 @@
 ### Sobre mim
 
 <p>
-  Eu sou aprendiz na Bosch/Campinas, aluna de Desenvolvimento de Sistemas pelo SENAI "Roberto Mange", sou formada em técnico de administração pela ETEC de Hortolândia e faço inglês pela Wizard.
+  Eu sou aprendiz de Soluções Digitais na Bosch/Campinas, aluna de Desenvolvimento de Sistemas pelo SENAI "Roberto Mange", sou formada em técnico de Administração pela ETEC de Hortolândia e faço inglês pela Wizard.
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
