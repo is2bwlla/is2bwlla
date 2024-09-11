@@ -5,25 +5,7 @@
 </p>
 
 <div dsplay="inline-block">
-
-
-
 </div>
-
-
-
-## Sobre mim
-
-Me chamo Isabella, tenho 18 anos, nasci em Hortolândia/SP e sou aprendiz na Bosch, Campinas/SP.
-
-- 👩🏻‍🎓 Sou formada em ADM pela ETEC de Hortolândia.
-- 👩🏻‍💻 Encerro o curso de DS pelo SENAI "Roberto Mange" no primero semestre de 2025.
-- 🌎 Faço inglês pela Wizard.
-- 📚 Áreas de interesse: desenvolvimento e IA.
-- 💬 Pergunte-me sobre o que tiver duvida.
-- 🐋 Curiosidade: Eu com certeza sei mais sobre cetáceos do que você.
-
-
 ### 🖥️ Tecnologias e Ferramentas: 
 
 <div>
