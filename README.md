@@ -40,11 +40,6 @@
 
 <br/>
 
-<div>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=is2bwlla&layout=compact&theme=transparent">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=is2bwlla&show_icons=true&theme=transparent">
-</div>
-
 <br/>
 
 ![Static Badge](https://img.shields.io/badge/python-b%C3%A1sico---?color=%23ffc0cb)
