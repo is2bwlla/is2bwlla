@@ -6,13 +6,19 @@
 <div dsplay="inline-block">
 </div>
 
-### Sobre mim
+<div align="center">
+  <h1>Welcome! I'm Isabella Souza.</h1>
+</div>
 
-<p>
-  Eu sou aprendiz de Soluções Digitais na Bosch/Campinas, aluna de Desenvolvimento de Sistemas pelo SENAI "Roberto Mange", sou formada em técnico de Administração pela ETEC de Hortolândia e faço inglês pela Wizard.
-</p>
+### Some curiosities about me:
 
-### 🖥️ Tecnologias e Ferramentas: 
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <p>🔭 I am currently part of the ETS team at BOSCH.</p>
+  <p>👩🏻‍🎓 I am studying Systems Analysis and Development at SENAI "Roberto Mange".</p>
+  <p>👩🏻‍🎓 I studied Business Administration at ETEC de Hortolândia. (2021-2023)</p>
+</div>
+
+### 🖥️ Tecnologies and Tools: 
 
 <div>
 <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "PYTHON"/>
@@ -22,7 +28,7 @@
 <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title = "FIGMA"/>
 </div>
 
-### 🖥️ Estudando: 
+### 🖥️ Studying: 
 
 <div>
   <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title = "JAVA" />
@@ -32,9 +38,9 @@
   <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title = "REACT" />         
 </div>
           
-## Contatos:
+## Contacts:
 
-📫 Você pode falar comigo pelo [Linkedin](https://www.linkedin.com/in/isabella-souza-365a79293/)
+📫 You can talk to me on [Linkedin](https://www.linkedin.com/in/isabella-souza-365a79293/)
 </br>
 
 
