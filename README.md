@@ -6,6 +6,10 @@
 <div dsplay="inline-block">
 </div>
 
+<p align="center">
+  <img src="./isabella.gif" alt="Isabella"/>
+</p>
+
 <div align="center">
   <h1>Welcome! I'm Isabella Souza.</h1>
 </div>
