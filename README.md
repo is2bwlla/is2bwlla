@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="./isabella.gif" alt="Isabella"/>
+  <img src="./isabella-souza.gif" alt="Isabella"/>
 </p>
 
 <div align="center">
