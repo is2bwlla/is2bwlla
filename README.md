@@ -51,6 +51,3 @@
 <br/>
 
 <br/>
-
-![Static Badge](https://img.shields.io/badge/python-b%C3%A1sico---?color=%23ffc0cb)
-![Static Badge](https://img.shields.io/badge/javascript-b%C3%A1sico---?color=%23ffc0cb)
