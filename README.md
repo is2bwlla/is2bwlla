@@ -22,7 +22,21 @@
   <p>👩🏻‍🎓 I studied Business Administration at ETEC de Hortolândia. (2021-2023)</p>
 </div>
 
-### 🖥️ Tecnologies and Tools: 
+### 🖥️ Eu sei: 
+<div>
+  <i class="devicon-python-plain"></i>
+  <i class="devicon-django-plain"></i>
+  <i class="devicon-fastapi-plain"></i>
+  <i class="devicon-javascript-plain"></i>
+  <i class="devicon-html5-plain"></i>
+  <i class="devicon-css3-plain"></i>
+  <i class="devicon-react-original"></i>
+  <i class="devicon-vite-original"></i>
+  <i class="devicon-tailwindcss-original"></i>
+  <i class="devicon-mysql-plain-wordmark"></i>
+  <i class="devicon-figma-plain"></i>
+  <i class="devicon-canva-original"></i>
+</div>
 
 <div>
 <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "PYTHON"/>
