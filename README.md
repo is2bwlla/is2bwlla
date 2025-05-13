@@ -10,7 +10,7 @@
   <img src="./isabella-souza.gif" alt="Isabella"/>
 </p>
 
-<h1 align="center">Hi, I'm Isabella Souza 👋</h1>
+<h1 align="center">Hi, I'm Isabella Souza 🩰</h1>
 
 ## About Me:
 
