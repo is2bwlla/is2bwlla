@@ -10,19 +10,27 @@
   <img src="./isabella-souza.gif" alt="Isabella"/>
 </p>
 
-<div align="center">
-  <h1>Welcome! I'm Isabella Souza.</h1>
-</div>
+<h1 align="center">Hi, I'm Isabella Souza 👋</h1>
 
-### Some curiosities about me:
+## About Me:
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <p>🔭 I am currently part of the ETS team at BOSCH.</p>
-  <p>👩🏻‍🎓 I am studying Systems Analysis and Development at SENAI "Roberto Mange".</p>
-  <p>👩🏻‍🎓 I studied Business Administration at ETEC de Hortolândia. (2021-2023)</p>
+  <p>Hi! I'm Isabella, a 19-year-old tech enthusiast with many hobbies — I love drawing, reading, playing RPGs, practicing ballet, and above all, whales are my favorite animals 🐋. I'm also self-taught in English and always excited to learn something new.
+
+I completed a capstone project on *Inclusion Management in the School Environment* during my Administration course. Currently, I'm working on an AI-based automation project for my Systems Development course.</p>
 </div>
 
-### 🖥️ Eu sei: 
+## 🎓 Education
+
+- 📈 Technical Degree in Administration – ETEC de Hortolândia (2021–2023)  
+- 💻 Technical Degree in Systems Development – SENAI "Roberto Mange" (2024–2025)  
+- 🧠 Specialization in Digital Solutions – BOSCH Campinas (2024–2025)  
+- 🏛️ Bachelor's in Software Engineering – Universidade São Francisco (2025–2028)
+
+## 💡 Areas of Interest
+Full-Stack Development, UX/UI Design, and Artificial Intelligence.
+
+### 🖥️ Tools, Technologies & Languages: 
 <div>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django"/>
@@ -38,7 +46,7 @@
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" title="Canva"/>
 </div>
 
-### 🖥️ Estudando: 
+### 🖥️ I'm still studying: 
 <div>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring"/>
@@ -50,12 +58,5 @@
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure"/>
 </div>
           
-## Contacts:
-
-📫 You can talk to me on [Linkedin](https://www.linkedin.com/in/isabella-souza-365a79293/)
-</br>
-
-
-<br/>
-
-<br/>
+## 📫 Contact
+You can reach me on [LinkedIn](https://www.linkedin.com/in/isabella-souza-365a79293/)
