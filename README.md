@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="./isabella-souza.gif" alt="Isabella"/>
+  <img src="./draculaura.png" alt="Isabella"/>
 </p>
 
 <h1 align="center">Hi, I'm Isabella Souza 🩰</h1>
