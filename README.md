@@ -54,7 +54,8 @@ Full-Stack Development, UX/UI Design, and Artificial Intelligence.
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="Vue.js"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
 </div>
           
 ## 📫 Contact
-You can reach me on [LinkedIn](www.linkedin.com/in/isabella-souza7)
+You can reach me on [LinkedIn](https://www.linkedin.com/in/isabella-souza7)
