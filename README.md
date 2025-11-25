@@ -15,7 +15,7 @@
 ## About Me:
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <p>Hi! I'm Isabella, a 20-year-old tech enthusiast with many hobbies — I love drawing, reading, playing RPGs, practicing ballet, and above all, whales are my favorite animals 🐋. I always excited to learn something new.</p>
+  <p>Hi! I'm Isabella, a 20-year-old tech enthusiast with many hobbies — I love drawing, reading, playing RPGs, practicing ballet, and above all, whales are my favorite animals 🐋. I'm always excited to learn something new.</p>
 </div>
 
 ## 🎓 Education
