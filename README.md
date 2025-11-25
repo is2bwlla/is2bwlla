@@ -15,17 +15,16 @@
 ## About Me:
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <p>Hi! I'm Isabella, a 19-year-old tech enthusiast with many hobbies — I love drawing, reading, playing RPGs, practicing ballet, and above all, whales are my favorite animals 🐋. I'm also self-taught in English and always excited to learn something new.
-
-I completed a capstone project on *Inclusion Management in the School Environment* during my Administration course. Currently, I'm working on an AI-based automation project for my Systems Development course.</p>
+  <p>Hi! I'm Isabella, a 20-year-old tech enthusiast with many hobbies — I love drawing, reading, playing RPGs, practicing ballet, and above all, whales are my favorite animals 🐋. I always excited to learn something new.</p>
 </div>
 
 ## 🎓 Education
 
-- 📈 Technical Degree in Administration – ETEC de Hortolândia (2021–2023)  
-- 💻 Technical Degree in Systems Development – SENAI "Roberto Mange" (2024–2025)  
-- 🧠 Specialization in Digital Solutions – BOSCH Campinas (2024–2025)  
-- 🏛️ Bachelor's in Software Engineering – Universidade São Francisco (2025–2028)
+- Technical Degree in Administration – ETEC de Hortolândia (2021–2023)  
+- Technical Degree in Systems Development – SENAI "Roberto Mange" (2024–2025)  
+- Specialization in Digital Solutions – BOSCH Campinas (2024–2025)  
+- Bachelor's in Software Engineering – Universidade São Francisco (2025–2028)
+- English Course Level B1 - NewCastle Idiomas
 
 ## 💡 Areas of Interest
 Full-Stack Development, UX/UI Design, and Artificial Intelligence.
@@ -44,17 +43,17 @@ Full-Stack Development, UX/UI Design, and Artificial Intelligence.
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" title="Canva"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript"/>
 </div>
 
 ### 🖥️ I'm still studying: 
 <div>
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java"/>
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring"/>
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="Vue.js"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure"/>
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
 </div>
           
 ## 📫 Contact
