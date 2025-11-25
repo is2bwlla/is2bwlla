@@ -20,11 +20,11 @@
 
 ## 🎓 Education
 
-- Technical Degree in Administration – ETEC de Hortolândia (2021–2023)  
-- Technical Degree in Systems Development – SENAI "Roberto Mange" (2024–2025)  
-- Specialization in Digital Solutions – BOSCH Campinas (2024–2025)  
-- Bachelor's in Software Engineering – Universidade São Francisco (2025–2028)
-- English Course Level B1 - NewCastle Idiomas
+- Technical Degree in Administration | ETEC de Hortolândia (2021–2023)  
+- Technical Degree in Systems Development | SENAI "Roberto Mange" (2024–2025)  
+- Specialization in Digital Solutions | BOSCH Campinas (2024–2025)  
+- Bachelor's in Software Engineering | Universidade São Francisco (2025–2028)
+- English Course - Level B1 | NewCastle Idiomas
 
 ## 💡 Areas of Interest
 Full-Stack Development, UX/UI Design, and Artificial Intelligence.
